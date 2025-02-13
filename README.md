@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi, I'm Usama Khalid, a passionate self-taught web developer from Islamabad, Pakistan. At 21, I'm on a mission to master web development and create impactful digital experiences. With a background in DAE, I’ve shifted my focus to learning practical skills that drive real results. Excited about tech, finance, and storytelling, I'm always exploring new ways to grow and innovate!
+Hi, I'm Usama Khalid, a passionate self-taught web developer from Islamabad, Pakistan. At 21, I'm on a mission to master web development and create impactful digital experiences. With a background in DAE, I’ve shifted my focus to learning practical skills that drive real results. Excited about tech, finance, and storytelling, I'm always exploring new ways to grow and innovate!
 
 
 ## 🌐 Socials:
