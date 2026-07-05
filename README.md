@@ -5,7 +5,7 @@ Hi, I'm Usama Khalid, a self-taught Flutter developer from Rawalpindi, Pakistan.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usama0155) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usamak5453@gmail.com) 
 
 # 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=usama0155&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -18,4 +18,4 @@ Hi, I'm Usama Khalid, a self-taught Flutter developer from Rawalpindi, Pakistan.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###
 <img src="https://raw.githubusercontent.com/usama0155/usama0155/output/snake.svg" alt="Snake animation" />
-###
+
