@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Usama Khalid, a self-taught Flutter developer from Rawalpindi, Pakistan. At 21, I'm on a mission to master mobile app development and build real, working products — no fluff, just practical skills that get results. With a DAE in IT, I shifted focus from theory-heavy paths to hands-on development, and I'm currently building out my Flutter portfolio while gearing up for junior developer roles. Beyond code, I'm into tech, finance, and storytelling — always looking for the next thing to learn and ship.
+Hi, I'm Usama Khalid, a self-taught Flutter developer from Islamabad/Rawalpindi, Pakistan. At 22, I'm on a mission to master mobile app development and build real, working products — no fluff, just practical skills that get results. With a DAE in IT, I shifted focus from theory-heavy paths to hands-on development, and I'm currently building out my Flutter portfolio while gearing up for junior developer roles — always looking for the next thing to learn and ship.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usama0155) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:usamak5453@gmail.com) 
